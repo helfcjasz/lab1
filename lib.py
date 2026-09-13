@@ -1,5 +1,5 @@
 def text(x=0):
     #func that prints text
     while x < 10:
-        print("Lycya is the best cat")
+        print("A has changed text here")
         x+=1
